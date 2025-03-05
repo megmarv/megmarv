@@ -6,7 +6,7 @@ Undergraduate | Artificial Intelligence & Data Science
 
 I happen to be a second year student following a degree on Artificial Intelligence & Data Science awarded by Informatics Institute of Technology, affiliated with Robert Gordon University, UK. I will have completed my second year in a month and will move onto my placement year with a compulsory internship. I look forward to learning and doing my best in achieving what's required of me.
 
-* 🌍  I'm based in Sri Lanka
+* 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [aaqibrlwn@gmail.com](mailto:aaqibrlwn@gmail.com)
 * 🧠  I'm learning Data Engineering, Deep Learning
 
