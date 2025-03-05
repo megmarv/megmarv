@@ -37,7 +37,7 @@ I happen to be a second year student following a degree on Artificial Intelligen
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [aaqibrlwn@gmail.com](mailto:aaqibrlwn@gmail.com)
-* 🧠  I'm learning Data Engineering, Deep Learning
+* 🧠  I'm currently learning Data Engineering, Deep Learning
 
 ### Skills
 
