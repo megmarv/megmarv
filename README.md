@@ -1,15 +1,15 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<center><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1080"></center>
 <br><br>
 
-Hi <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="40" /> I'm Aaqib Rilwan
+Aaqib Rilwan
 ====================================================================================================================================
 
-Undergraduate | Artificial Intelligence & Data Science
+AI Engineer | Data Analyst
 ------------------------------------------------------
 
-I happen to be a second year student following a degree on Artificial Intelligence & Data Science awarded by Informatics Institute of Technology, affiliated with Robert Gordon University, UK. I will have completed my second year in a month and will move onto my placement year with a compulsory internship. I look forward to learning and doing my best in achieving what's required of me.
+Third-year Artificial Intelligence & Data Science student at Robert Gordon University, Scotland. Aspiring AI Engineer with a strong focus on building intelligent systems using neural networks and advanced algorithms. Passionate about AGI, full-scale AI applications, and creating solutions that push the boundaries of technology. Future entrepreneur aiming to transform the AI landscape through innovative projects.
 
-* 🌍  I'm based in Colombo, Sri Lanka
+* 🌍  Colombo, Sri Lanka
 * ✉️  You can contact me at [aaqibrlwn@gmail.com](mailto:aaqibrlwn@gmail.com)
 * 🧠  I'm currently learning Data Engineering, Deep Learning
 
