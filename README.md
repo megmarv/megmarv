@@ -1,5 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000" height="500">
-<br><br>
+<img src="https://github.com/user-attachments/assets/e60254f3-2b86-42ef-9892-4aea5e8ee94f" width="1000" height="500"><br>
 
 Aaqib Rilwan
 ====================================================================================================================================
@@ -7,11 +6,13 @@ Aaqib Rilwan
 AI Engineer | Data Analyst
 ------------------------------------------------------
 
-Third-year Artificial Intelligence & Data Science student at Robert Gordon University, Scotland. Aspiring AI Engineer with a strong focus on building intelligent systems using neural networks and advanced algorithms. Passionate about AGI, full-scale AI applications, and creating solutions that push the boundaries of technology. Future entrepreneur aiming to transform the AI landscape through innovative projects.
+Third-year Artificial Intelligence & Data Science student at Robert Gordon University, Scotland. AI Engineer with a strong focus on building intelligent systems using neural networks and advanced algorithms. Passionate about AGI, full-scale AI applications, and creating solutions that push the boundaries of technology. Future entrepreneur aiming to transform the AI landscape through innovative projects.
 
 * 🌍  Colombo, Sri Lanka
 * ✉️  You can contact me at [aaqibrlwn@gmail.com](mailto:aaqibrlwn@gmail.com)
-* 🧠  I'm currently learning Data Engineering, Deep Learning
+* 🧠  Currently working as an intern in AI & Medical Informatics
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello">
 
 ### Skills
 
